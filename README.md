@@ -1,5 +1,4 @@
 # 525-Birds-Species-Classification-using-Efficient-Net
-
 This repository implements a multi-class classification model for identifying bird species using transfer learning with the EfficientNetB0 architecture.
 
 Overview:
